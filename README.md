@@ -1,1 +1,1 @@
-# UC-Berkeley-EECS70-Fall-2021
+# UC Berkeley EECS 70 Fall 2021
